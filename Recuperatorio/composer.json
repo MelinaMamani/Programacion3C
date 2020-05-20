@@ -1,0 +1,14 @@
+{
+    "name": "usuario/modelo-c",
+    "authors": [
+        {
+            "name": "MelinaMamani",
+            "email": "erikamelinamamani@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2",
+        "slim/slim": "^4.0",
+        "slim/psr7": "^0.6.0"
+    }
+}
